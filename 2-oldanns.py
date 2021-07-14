@@ -17,7 +17,7 @@ else:
 print("In case of C = A :> ",y)
 
 
-# C= A ^ B
+# C= A ^ B, AND Gate
 a = 1
 b = 1
 sum = 1+1
@@ -31,7 +31,7 @@ else:
 print("In case of C = A /\ B :> ",c)
 
 
-# C = A \/ B
+# C = A \/ B, OR Gate
 a = 1
 b = 1
 sum = a+a+b+b

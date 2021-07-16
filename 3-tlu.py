@@ -7,7 +7,7 @@ z = np.dot(x, w)
 
 print("Z(weighted sum) :>", z)
 
-# create a rectified logic unit
+# create a step function
 def step(x):
 	if x >= 2:
 		return x

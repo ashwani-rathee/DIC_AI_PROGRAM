@@ -1,4 +1,4 @@
-# create a multilayer perceptron
+# create a single layer perceptron
 
 import numpy as np
 
